@@ -7,8 +7,9 @@
 
 **✨ This repository is a collection of LPM projects featuring impressive 3DGS-based rendering models. If you want to improve and integrate it, please do not hesitate to submit a PR.**
 
+
 ## Updates
-- **`2024/07/20`**: 2DGS + LPM is available Now!
+- **`2024/07/21`**: 2DGS + LPM is available Now!
 
 ## TODO
 - [Mip-Splatting](https://github.com/autonomousvision/mip-splatting) + [LPM](https://github.com/Surrey-UP-Lab/GS-LPM)
