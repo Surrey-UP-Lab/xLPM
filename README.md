@@ -1,4 +1,4 @@
-# xLPM: xGausaain-Splatting Models with Localized Point Management
+# xLPM: xGaussian-Splatting Models with Localized Point Management
 [Homepage](https://surrey-uplab.github.io/research/LPM/) | [Paper](https://surrey-uplab.github.io/research/LPM/) | [LPM Repository](https://github.com/Surrey-UP-Lab/GS-LPM)
 > [**Gaussian Splatting with Localized Points Management**](https://surrey-uplab.github.io/research/LPM/)           
 > Haosen Yang*, Chenhao Zhang*, Wenqing Wang, Marco Volino, Adrian Hilton, Li Zhang, Xiatian Zhu  
